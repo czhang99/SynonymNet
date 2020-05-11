@@ -1,0 +1,5 @@
+tensorflow_gpu==1.15.0
+numpy==1.14.0
+pandas==0.25.1
+gensim==3.8.1
+scikit_learn==0.21.2
