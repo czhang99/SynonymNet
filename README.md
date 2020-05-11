@@ -88,8 +88,8 @@ Pre-trained word vectors and datasets can be downloaded here:<br>
 
 | Dataset  | Link |
 | ------------- | ------------- |
-| Wikipedia + Freebase  |   |
-| PubMed + UMLS  |  |
+| Wikipedia + Freebase  | https://drive.google.com/open?id=1uX4KU6ws9xIIJjfpH2He-Yl5sPLYV0ws  |
+| PubMed + UMLS  | https://drive.google.com/open?id=1cWHhXVd_Pb4N3EFdpvn4Clk6HVeWKVfF |
 
 ### Work on your own data
 Prepare and organize your dataset in a folder according to the [format](#format) and put it under ```./input_data/``` and use `--dataset=foldername` during training. 
